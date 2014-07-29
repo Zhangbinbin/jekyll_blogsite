@@ -1,2 +1,10 @@
 markdown: rdiscount
 pygments: true
+
+title: Zhang Bin's Blog
+
+author:
+    name: Zhang Bin
+    email: yugong0391@gmail.com
+    github: zhangbinbin
+    twitter: unknown
