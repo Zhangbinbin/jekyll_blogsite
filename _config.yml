@@ -2,7 +2,9 @@ markdown: rdiscount
 pygments: true
 
 title: Zhang Bin's Blog
+description: "关注计算机科学,音乐,教育 computer science, music, learning"
 
+url: "http://binzhang.tk"
 author:
     name: Zhang Bin
     email: yugong0391@gmail.com
