@@ -6,7 +6,7 @@ tilte: Enjoy myself,偷着乐
 {{ page.title}}
 ===============
 
-<p class="meta"29 Jul 2014 - Shanghai City</p> 
+<p class="meta">29 Jul 2014 - Shanghai City</p> 
 
 折腾了一天的Github pages 配置终于有眉目了,现在就来试着写一篇日志吧.看看效果如何.
 
