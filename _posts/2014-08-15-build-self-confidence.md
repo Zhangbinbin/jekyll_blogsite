@@ -1,6 +1,7 @@
 ---
 layout: post
 tilte: 自信的源泉
+tags: human
 ---
 
 如何建立自信心

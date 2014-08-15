@@ -1,5 +1,5 @@
 safe: true
-lsi: true
+lsi: false
 author:
 name: Binbin Zhang
 title: Binbin Zhang
@@ -7,4 +7,5 @@ email: yugong0391@gmail.com
 description: "Focus on Computer Science,Focus on Human Being! 科技为人类服务,人类为自然服务."
 baseurl: http://binzhang.tk
 markdown: kramdown
+excerpt_separator: ""
 pygments: true
