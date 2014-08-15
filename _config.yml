@@ -1,12 +1,9 @@
-markdown: rdiscount
+# global setting
+name: Binbin Zhang
+title: Binbin Zhang
+email: yugong0391@gmail.com
+description: "Focus on Computer Science,Focus on Human Being! 科技为人类服务,人类为自然服务."
+
+# build setting
+markdown: kramdown
 pygments: true
-
-title: Zhang Bin's Blog
-description: "关注计算机科学,音乐,教育 computer science, music, learning"
-
-url: "http://binzhang.tk"
-author:
-    name: Zhang Bin
-    email: yugong0391@gmail.com
-    github: zhangbinbin
-    twitter: unknown
