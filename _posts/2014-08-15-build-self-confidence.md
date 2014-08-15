@@ -1,6 +1,6 @@
 ---
 layout: post
-tilte: 自信的源泉
+title: 如何建立自信 + How to build self confidence
 tags: human
 ---
 
