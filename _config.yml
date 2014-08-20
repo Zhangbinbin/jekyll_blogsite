@@ -10,3 +10,9 @@ baseurl: /
 markdown: kramdown
 excerpt_separator: ""
 pygments: true
+
+categories:
+    - jekyll
+    - blog
+    - ruby
+
