@@ -9,10 +9,9 @@ tags: human
 
 本文的内容参考了wikihow上[Build-Self-Confidence](http://www.wikihow.com/Build-Self-Confidence/)一文,感谢.
 
----
 
 
-### 说在前面的话
+## 说在前面的话
 
 > 自信心之于人,就好比阳光之于树木.很难想象一个干什么都缺乏自信的人,一辈子能作出什么惊天动地的大事.
 > 伟大的理论物理科学家爱因斯坦曾说过:
@@ -22,11 +21,10 @@ tags: human
 > 然而,只是告诉人们自信如何如何重要,显然不是重点.重点是:**如何有效的建立自信**.这也是本文的重点.
 > Ok,让我们出发吧!
 
----
 
 ![图片0]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Intro.jpg)
 
-### 第一步: 改变你的思维方式
+## 第一步: 改变你的思维方式
 ![图片1]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-4.jpg)
 
 * 评估天赋  <br />
@@ -44,7 +42,7 @@ tags: human
 >
 > 人外有人,天外有天,明白这一点很重要.自己的目标和梦想才是你需要关心的重点.
 
-### 第二步: 行动起来
+## 第二步: 行动起来
 
 * 真心感谢别人的赞美
 ![图片3]({{ site.url }}/assets/images/670px-Build-Self-Confidence-Step-7.jpg)
@@ -70,7 +68,7 @@ tags: human
 * 眼神的沟通
 * 外观依然很重要
 
-### 最后一步: 进一步提升自信
+## 最后一步: 进一步提升自信
 
 ![图片6]({{ site.url }}/assets/images/670px-22075-1.jpg)
 

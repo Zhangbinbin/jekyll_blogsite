@@ -16,13 +16,16 @@ body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
+  margin: 1px auto;
   text-align: center;
+  border: 0px solid #006633;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -58,27 +61,18 @@ a:visited { color: #a0a; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 100%;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
 
+.header {
+    background:#99bbbb;
+}
 .header a {
   font-weight: bold;
   text-decoration: none;
-}
-
-.title {
-  display: inline-block;
-  margin-bottom: 2em;
-}
-
-.title a {
-  color: #a00;
-}
-
-.title a:hover {
-  color: #000;
+  float:left;
 }
 
 .header a.extra {
@@ -87,6 +81,19 @@ a:visited { color: #a0a; }
 }
 
 .header a.extra:hover {
+  color: #000;
+
+.title {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.title a {
+  color: #a00;
+  float:left;
+}
+
+.title a:hover {
   color: #000;
 }
 
