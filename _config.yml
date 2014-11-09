@@ -4,10 +4,11 @@ author:
 name: Binbin Zhang
 title: Binbin Zhang
 email: yugong0391@gmail.com
-description: "Focus on Computer Science,Focus on Human Being! 科技为人类服务,人类为自然服务."
+description: "Focus on Computer Science,Focus on Human Being! 天,地,人."
 url: http://zhangbinbin.tk
 baseurl: /
 markdown: kramdown
 excerpt_separator: ""
 pygments: true
 copyright: CC BY-SA 3.0
+permalink: /:year/:month/:day/:title
