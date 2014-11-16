@@ -8,7 +8,7 @@ author:
 title: 愚公移山,敢为人先
 description: "Focus on Computer Science,Focus on Human Being! 天,地,人."
 url: http://zhangbinbin.tk
-baseurl: /
+baseurl: /zhangbinbin.github.io
 markdown: kramdown
 excerpt_separator: ""
 pygments: true
