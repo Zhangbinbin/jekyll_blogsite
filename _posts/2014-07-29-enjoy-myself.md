@@ -1,6 +1,8 @@
 ---
 layout: post
-title: jekyll + github pages + 搭建博客  
+title: "jekyll + github pages + 搭建博客"
+description: "如何用Github pages写博客,阶段性造轮子第一步"
+tags: [Github Pages,Jekyll,造轮子]
 ---
 
 
