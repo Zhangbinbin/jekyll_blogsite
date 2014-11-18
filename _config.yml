@@ -1,16 +1,17 @@
-safe: true
-lsi: false
-author:
-    name: Binbin Zhang
-    email: yugong0391@gmail.com
-    github: zhangbinbin
-    twitter: BinbinSciencist
-title: "愚公移山,敢为人先"
-description: "Focus on Computer Science,Focus on Human Being! 天,地,人."
-url: http://zhangbinbin.tk
+--- 
+author: 
+  email: yugong0391@gmail.com
+  github: zhangbinbin
+  name: "Binbin Zhang"
+  twitter: BinbinSciencist
 baseurl: /
-markdown: kramdown
+copyright: "CC BY-SA 3.0"
+description: "Focus on Computer Science,Focus on Human Being! 天,地,人."
 excerpt_separator: ""
 highlighter: pygments
-copyright: CC BY-SA 3.0
-permalink: /blog/:year/:month/:day/:title
+lsi: false
+markdown: kramdown
+permalink: "/blog/:year/:month/:day/:title"
+safe: true
+title: "愚公移山,敢为人先"
+url: "http://zhangbinbin.tk"
