@@ -5,10 +5,10 @@ author:
     email: yugong0391@gmail.com
     github: zhangbinbin
     twitter: BinbinSciencist
-title: 愚公移山,敢为人先
+title: "愚公移山,敢为人先"
 description: "Focus on Computer Science,Focus on Human Being! 天,地,人."
 url: http://zhangbinbin.tk
-baseurl: /zhangbinbin.github.io
+baseurl: 
 markdown: kramdown
 excerpt_separator: ""
 pygments: true
