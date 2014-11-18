@@ -1,6 +1,6 @@
-_drafts/*
-_site/*
-_theme_packages/*
+_drafts/
+_site/
+_theme_packages/
 .DS_Store
 *.swp
 *~
